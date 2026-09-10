@@ -34,7 +34,7 @@
           <main class="content">
             <p class="eyebrow">FOUNDATION TRACK · PWA PRACTICAL</p>
             <div class="hero-grid">
-              <div><h1>Keep learning when the network leaves.</h1>
+              <div><h1>Keep learning when the network leaves.</h1><br>
               <h2>Yahaya Ahmad Tijani</h2>
               <h2>Computer Engineering Department</h2>
               <h2>2025/2/107517CP</h2>
